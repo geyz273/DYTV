@@ -1,2 +1,2 @@
-# douyutv
-初始化
+# DYTV
+模仿斗鱼TV
